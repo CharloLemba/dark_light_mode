@@ -3,8 +3,8 @@ import 'package:dark_light_mode/pages/beranda.dart' as beranda;
 import 'package:dark_light_mode/pages/halaman2.dart' as halaman2;
 import 'package:dark_light_mode/pages/halaman3.dart' as halaman3;
 
-class AppDrawer extends StatelessWidget {
-  const AppDrawer({super.key});
+class MyDrawer extends StatelessWidget {
+  const MyDrawer({super.key});
 
   @override
   Widget build(BuildContext context) {
